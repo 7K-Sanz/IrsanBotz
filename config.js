@@ -1,41 +1,41 @@
 //=============『 Utama 』================== //
-global.owner = ['+856 20 52 906 199'] 
+global.owner = ['+62 877 4821 05655'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'IRSAN Uhuyあ⁩⁩'
-global.numberowner = '+856 20 52 906 199'
-global.instagram = 'https://tyvv.com'
-global.github = 'https://github.com/ramlaidi'
-global.dana = '089691183687'
-global.pulsa = '089691183687'
-global.gopay = '-'
+global.nameowner = '7K Sanz あ⁩⁩'
+global.numberowner = '+62 877 4821 05655'
+global.instagram = '-'
+global.github = 'https://github.com/7K-Sanz'
+global.dana = '0895600740052'
+global.pulsa = '087748210565'
+global.gopay = '0895600740052'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'San-Md'
-global.gc = 'https://yandex/Surat\nAlisra\nayat32'
-global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000\nNote:\nIrsan♡Anya'
+global.namebot = 'Vanzbot-Md ✗'
+global.gc = 'https://chat.whatsapp.com/HUTpnP78RmJI6zpGXi9Off'
+global.web = 'https://github.com/7K-Sanz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1minggu = 5k\n 1bulan = 15k\n permanen = buat bot sendiri aj\nNote:\nVanzbot-MD ✗'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg' //ini juga ganti 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'San-MD'
+global.wm = 'Vanzbot-MD'
 global.watermark = wm
-global.wm2 = '                     「 San-MD あ⁩ 」'
-global.wm3 = '⫹⫺ San-MD'
+global.wm2 = '                     「 Vanzbot-MD ✗ 」'
+global.wm3 = '⫹⫺ Vanzbot-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/ef4b4564ef9dc4143f949.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*Sabar kek Kontol*_'
+global.wait = '_*Sabar kek Kon*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
+global.stiker_wait = 'Sabar Mek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
 global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nSticker\Untuk\Mu'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDone\nBanh\Jangan\DiKecewakanDia:)'
 
